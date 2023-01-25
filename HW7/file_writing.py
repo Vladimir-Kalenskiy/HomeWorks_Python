@@ -1,7 +1,3 @@
-# from user_interface import get_info
-
-# info = get_info()
-
 def writing_csv (info):
     file = 'HW/HW7/Phonebook.csv'
     with open (file, 'a') as data:
