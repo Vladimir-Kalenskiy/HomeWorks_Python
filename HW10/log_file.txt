@@ -1,0 +1,2 @@
+ID user: 249585164, Input: 1000-7*100, Result: 300
+ID user: 249585164, Input: 1+2*3/3, Result: 3.0
